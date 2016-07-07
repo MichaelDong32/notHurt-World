@@ -29,12 +29,36 @@
   ],
   "lowerBodyExercises": [
     {
-      "title": "",
+      "title": "Side Leg Stretch (High)",
       "time": "",
       "instructions": [
-        "Stand up with your back straight and tilt your head down towards your chest.",
-        "",
+        "Spread your legs apart from one another and move your weight on your left leg, flexing your left knee while keeping your right leg fully extended.",
+        "Stretch by lowering yourself down and hold the stretch position for several seconds before switching legs.",
+        "This exercise will stretch your inner thigh muscles primarily."
+      ],
+      "imageUrls": [
         ""
+      ]
+    },
+     {
+      "title": "Side Leg Stretch (Low)",
+      "time": "",
+      "instructions": [
+      "Crouch down, feet wide apart, with your right knee flexed but your right leg fully extended.",
+      "Move your left hand towards your left ankle to increase the stretch, hold for several seconds and change sides.",
+      "This exercise will again stretch your inner thigh muscles."
+      ],
+      "imageUrls": [
+        ""
+      ]
+    },
+    {
+      "title": "Front Leg Stretch",
+      "time": "",
+      "instructions": [
+      "Stand on your right leg and hold your left foot with your left hand behind your buttocks.",
+      "Stretch by pulling on your foot and hold for several seconds before changing sides.",
+      "This exercise is excellent at stretching your quadriceps, located in front of your thighs."
       ],
       "imageUrls": [
         ""
