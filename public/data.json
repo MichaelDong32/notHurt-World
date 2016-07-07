@@ -1,23 +1,28 @@
 {
   "upperBodyExercises": [
     {
-      "title": "",
+      "title": "Head Tilt Forward",
       "time": "",
-      "description": ""
+      "instructions": [
+        "Stand up with your back straight and tilt your head down towards your chest.",
+        "",
+        ""
+      ],
+      "imageUrl": ""
     }
   ],
   "midBodyExercises": [
     {
       "title": "",
       "time": "",
-      "description": ""
+      "instructions": ""
     }
   ],
   "lowerBodyExercises": [
     {
       "title": "",
       "time": "",
-      "description": ""
+      "instructions": ""
     }
   ]
 }
