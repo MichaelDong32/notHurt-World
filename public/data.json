@@ -15,14 +15,24 @@
     {
       "title": "",
       "time": "",
-      "instructions": ""
+      "instructions": [
+        "Stand up with your back straight and tilt your head down towards your chest.",
+        "",
+        ""
+      ],
+      "imageUrl": ""
     }
   ],
   "lowerBodyExercises": [
     {
       "title": "",
       "time": "",
-      "instructions": ""
+      "instructions": [
+        "Stand up with your back straight and tilt your head down towards your chest.",
+        "",
+        ""
+      ],
+      "imageUrl": ""
     }
   ]
 }
