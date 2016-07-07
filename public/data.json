@@ -1,23 +1,44 @@
 {
   "upperBodyExercises": [
     {
-      "title": "",
+      "title": "Head Tilt Forward",
       "time": "",
-      "description": ""
+      "instructions": [
+        "Stand up with your back straight and tilt your head down towards your chest.",
+        "Tilt your head back to its starting position after a short pause.",
+        "Be careful not to tilt your head back too far."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/neck-stretch-exercise-1.gif"
+      ]
     }
   ],
   "midBodyExercises": [
     {
       "title": "",
       "time": "",
-      "description": ""
+      "instructions": [
+        "Stand up with your back straight and tilt your head down towards your chest.",
+        "",
+        ""
+      ],
+      "imageUrls": [
+        ""
+      ]
     }
   ],
   "lowerBodyExercises": [
     {
       "title": "",
       "time": "",
-      "description": ""
+      "instructions": [
+        "Stand up with your back straight and tilt your head down towards your chest.",
+        "",
+        ""
+      ],
+      "imageUrls": [
+        ""
+      ]
     }
   ]
 }
