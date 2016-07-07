@@ -1,12 +1,2 @@
 # notHurt-World
 !Hurt World
-
-
-
-
-
-
-
-
-
-
