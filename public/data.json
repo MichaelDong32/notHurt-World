@@ -113,16 +113,65 @@
   ],
   "lowerBodyExercises": [
     {
-      "title": "",
-      "time": "",
+      "title": "Side Leg Stretch (High)",
+      "time": 5,
       "instructions": [
-        "Stand up with your back straight and tilt your head down towards your chest.",
-        "",
-        ""
+        "Spread your legs apart from one another and move your weight on your left leg, flexing your left knee while keeping your right leg fully extended.",
+        "Stretch by lowering yourself down and hold the stretch position for several seconds before switching legs.",
+        "This exercise will stretch your inner thigh muscles primarily."
       ],
       "imageUrls": [
-        ""
+        "http://www.stretch-exercises.com/exercises/lower-body/images/legs-stretch-exercise-1.gif"
       ]
-    }
+    },
+     {
+      "title": "Side Leg Stretch (Low)",
+      "time": 5,
+      "instructions": [
+      "Crouch down, feet wide apart, with your right knee flexed but your right leg fully extended.",
+      "Move your left hand towards your left ankle to increase the stretch, hold for several seconds and change sides.",
+      "This exercise will again stretch your inner thigh muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/lower-body/images/legs-stretch-exercise-2.gif"
+      ]
+    },
+    {
+      "title": "Front Leg Stretch",
+      "time": 5,
+      "instructions": [
+      "Stand on your right leg and hold your left foot with your left hand behind your buttocks.",
+      "Stretch by pulling on your foot and hold for several seconds before changing sides.",
+      "This exercise is excellent at stretching your quadriceps, located in front of your thighs."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/lower-body/images/legs-stretch-exercise-3.gif"
+      ]
+    },
+     {
+      "title": "Step Forward Calf Stretch",
+      "time": 5,
+      "instructions": [
+      "Stand on your right foot, knee flexed and extend your left leg back, both feet pointing forward.",
+      "Stretch your calf by trying to rest your left foot flat on the ground, hold for several seconds and change sides.",
+      "Use this exercise to stretch your calf muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/lower-body/images/legs-stretch-exercise-5.gif"
+      ]
+    },
+    {
+      "title": "Hamstring Stretch",
+      "time": 5,
+      "instructions": [
+      "Extend your right leg in front of you and bend your left knee to lower yourself down a little.",
+      "Pull your right-foot toes towards you and move your hands towards them to stretch. Alternate sides when done.",
+      "This exercise stretches your hamstrings and your calf muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/lower-body/images/legs-stretch-exercise-7.gif"
+      ]
+    },
+
   ]
 }
