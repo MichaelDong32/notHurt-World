@@ -15,15 +15,63 @@
   ],
   "midBodyExercises": [
     {
-      "title": "",
-      "time": "",
+      "title": "Trunk Rotation",
+      "time": 5,
       "instructions": [
-        "Stand up with your back straight and tilt your head down towards your chest.",
-        "",
-        ""
+        "Stand up and position your hands on each side of your hips, elbows slightly bent.",
+        "Rotate your trunk to your left, then rotate it all the way to your right in one smooth motion. Repeat this a few times.",
+        "This exercise will stretch your back, chest and abdominal muscles."
       ],
       "imageUrls": [
-        ""
+        "http://www.stretch-exercises.com/exercises/upper-body/images/back-stretch-exercise-1.gif"
+      ]
+    },
+    {
+      "title": "Arm Up Upper Body Sideways Stretch",
+      "time": 5,
+      "instructions": [
+        "Stand up and raise your right arm straight up.",
+        "Titl your upper body at the hips to your left in order to stretch the entire right side of your body. Alternate sides when done.",
+        "This exercise stretches your back and your abdominal muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/back-stretch-exercise-2.gif"
+      ]
+    },
+    {
+      "title": "Lower Back Stretch (Sitting)",
+      "time": 5,
+      "instructions": [
+        "Sit down on the floor, back straight, legs in front of you wide from each other with your knees bent in front of your chest.",
+        "Stretch by tilting your upper body forward.",
+        "This exercise will stretch your lower back."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/back-stretch-exercise-3.gif"
+      ]
+    },
+    {
+      "title": "Trunk Rotation (Sitting)",
+      "time": 5,
+      "instructions": [
+        "Sit down on the floor, legs straight, away from each other.",
+        "Stretch by rotating your upper body to one side then to the other.",
+        "This exercise will stretch your back muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/back-stretch-exercise-4.gif"
+      ]
+    },
+    {
+      "title": "Hip Twist Stretch (Lying on Back)",
+      "time": 5,
+      "instructions": [
+        "Lie on your back on the floor and cross your right leg all the way over your left, both fully extended.",
+        "Stretch by rotating your upper body as far as you can by pushing your leg as far as you can. Alternate sides when done.",
+        "This exercise will stretch the muscles located in your back and your hips."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/back-stretch-exercise-7.gif"
       ]
     }
   ],
