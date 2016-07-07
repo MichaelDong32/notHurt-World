@@ -6,39 +6,172 @@
       "instructions": [
         "Stand up with your back straight and tilt your head down towards your chest.",
         "Tilt your head back to its starting position after a short pause.",
-        ""
+        "Be careful not to tilt your head back too far."
       ],
       "imageUrls": [
-        ""
+        "http://www.stretch-exercises.com/exercises/upper-body/images/neck-stretch-exercise-1.gif"
+      ]
+    },
+    {
+      "title": "Head Tilt Sideways",
+      "time": "",
+      "instructions": [
+        "Stand up with your back straight and tilt your head sideways towards your left shoulder.",
+        "Tilt your head back towards its starting position but continue on to the right shoulder.",
+        "Chain together these steps to accomplish fluid and smooth movements."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/neck-stretch-exercise-2.gif"
+      ]
+    },
+    {
+      "title": "Arms Behind Back Reach",
+      "time": "",
+      "instructions": [
+        "Stand up, put your left hand behind your back over your left shoulder and your right hand behind your back against your lower back.",
+        "Stretch by moving your hands towards each other, holding on to one another if you can and hold the stretch for several seconds.",
+        "This exercise will mainly stretch your shoulder muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/shoulder-stretch-exercise-4.gif"
+      ]
+    },
+    {
+      "title": "Arm-in-Front Shoulder Stretch",
+      "time": "",
+      "instructions": [
+        "Stand up and grab your right elbow in front of your chest using your left hand.",
+        "Stretch by pulling your elbow towards your chest for several seconds and alternate sides when done.",
+        "This exercise will stretch your shoulder muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/shoulder-stretch-exercise-1.gif"
       ]
     }
   ],
   "midBodyExercises": [
     {
-      "title": "",
-      "time": "",
+      "title": "Trunk Rotation",
+      "time": 5,
       "instructions": [
-        "Stand up with your back straight and tilt your head down towards your chest.",
-        "",
-        ""
+        "Stand up and position your hands on each side of your hips, elbows slightly bent.",
+        "Rotate your trunk to your left, then rotate it all the way to your right in one smooth motion. Repeat this a few times.",
+        "This exercise will stretch your back, chest and abdominal muscles."
       ],
       "imageUrls": [
-        ""
+        "http://www.stretch-exercises.com/exercises/upper-body/images/back-stretch-exercise-1.gif"
+      ]
+    },
+    {
+      "title": "Arm Up Upper Body Sideways Stretch",
+      "time": 5,
+      "instructions": [
+        "Stand up and raise your right arm straight up.",
+        "Titl your upper body at the hips to your left in order to stretch the entire right side of your body. Alternate sides when done.",
+        "This exercise stretches your back and your abdominal muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/back-stretch-exercise-2.gif"
+      ]
+    },
+    {
+      "title": "Lower Back Stretch (Sitting)",
+      "time": 5,
+      "instructions": [
+        "Sit down on the floor, back straight, legs in front of you wide from each other with your knees bent in front of your chest.",
+        "Stretch by tilting your upper body forward.",
+        "This exercise will stretch your lower back."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/back-stretch-exercise-3.gif"
+      ]
+    },
+    {
+      "title": "Trunk Rotation (Sitting)",
+      "time": 5,
+      "instructions": [
+        "Sit down on the floor, legs straight, away from each other.",
+        "Stretch by rotating your upper body to one side then to the other.",
+        "This exercise will stretch your back muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/back-stretch-exercise-4.gif"
+      ]
+    },
+    {
+      "title": "Hip Twist Stretch (Lying on Back)",
+      "time": 5,
+      "instructions": [
+        "Lie on your back on the floor and cross your right leg all the way over your left, both fully extended.",
+        "Stretch by rotating your upper body as far as you can by pushing your leg as far as you can. Alternate sides when done.",
+        "This exercise will stretch the muscles located in your back and your hips."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/upper-body/images/back-stretch-exercise-7.gif"
       ]
     }
   ],
   "lowerBodyExercises": [
     {
-      "title": "",
-      "time": "",
+      "title": "Side Leg Stretch (High)",
+      "time": 5,
       "instructions": [
-        "Stand up with your back straight and tilt your head down towards your chest.",
-        "",
-        ""
+        "Spread your legs apart from one another and move your weight on your left leg, flexing your left knee while keeping your right leg fully extended.",
+        "Stretch by lowering yourself down and hold the stretch position for several seconds before switching legs.",
+        "This exercise will stretch your inner thigh muscles primarily."
       ],
       "imageUrls": [
-        ""
+        "http://www.stretch-exercises.com/exercises/lower-body/images/legs-stretch-exercise-1.gif"
       ]
-    }
+    },
+     {
+      "title": "Side Leg Stretch (Low)",
+      "time": 5,
+      "instructions": [
+      "Crouch down, feet wide apart, with your right knee flexed but your right leg fully extended.",
+      "Move your left hand towards your left ankle to increase the stretch, hold for several seconds and change sides.",
+      "This exercise will again stretch your inner thigh muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/lower-body/images/legs-stretch-exercise-2.gif"
+      ]
+    },
+    {
+      "title": "Front Leg Stretch",
+      "time": 5,
+      "instructions": [
+      "Stand on your right leg and hold your left foot with your left hand behind your buttocks.",
+      "Stretch by pulling on your foot and hold for several seconds before changing sides.",
+      "This exercise is excellent at stretching your quadriceps, located in front of your thighs."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/lower-body/images/legs-stretch-exercise-3.gif"
+      ]
+    },
+     {
+      "title": "Step Forward Calf Stretch",
+      "time": 5,
+      "instructions": [
+      "Stand on your right foot, knee flexed and extend your left leg back, both feet pointing forward.",
+      "Stretch your calf by trying to rest your left foot flat on the ground, hold for several seconds and change sides.",
+      "Use this exercise to stretch your calf muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/lower-body/images/legs-stretch-exercise-5.gif"
+      ]
+    },
+    {
+      "title": "Hamstring Stretch",
+      "time": 5,
+      "instructions": [
+      "Extend your right leg in front of you and bend your left knee to lower yourself down a little.",
+      "Pull your right-foot toes towards you and move your hands towards them to stretch. Alternate sides when done.",
+      "This exercise stretches your hamstrings and your calf muscles."
+      ],
+      "imageUrls": [
+        "http://www.stretch-exercises.com/exercises/lower-body/images/legs-stretch-exercise-7.gif"
+      ]
+    },
+
   ]
 }
