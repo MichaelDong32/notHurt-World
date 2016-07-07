@@ -4,6 +4,7 @@ export default class App extends React.Component {
   render () {
     return (
       <div>
+        Hello World!
         The app rendered
       </div>
     )
