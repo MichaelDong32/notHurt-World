@@ -13,7 +13,6 @@ h1 {
     font-size: 4.3em;
     color: white;
 }
-
 .body-container {
     width: 300px;
     margin: 0 auto;
@@ -37,25 +36,24 @@ h1 {
 
 .lower-body-div, .mid-body-div, .upper-body-div {
     width:300px;
-    height:240px;
+    height:260px;
     position:absolute;
-    top: 120px;
+    top: 600px;
 }
 .mid-body-div {
     top: 360px;
+    height:240px;
 }
 .upper-body-div {
-    height: 260px;
-    top: 600px;
-}
-
-.disclaimer-container {
-    width: 300px;
-    margin: 0 auto;
-    text-align: right;
+    height: 240px;
+    top: 120px;
 }
 
 .close {
   float: right;
   margin: 0;
+}
+
+.exercise-image {
+  height: 65%;
 }
