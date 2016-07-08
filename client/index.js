@@ -3,6 +3,7 @@ console.log('hi');
 import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './components/app.js'
+
 import 'whatwg-fetch'
 import 'es6-promise'
 import domready from 'domready'
