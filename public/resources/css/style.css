@@ -1,3 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+body{
+    width: 100%;
+    height: 100%;
+    background-color: #20FC8F;
+    opacity: 0.9;
+    z-index: -10;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 4.3em;
+    color: white;
+}
 .body-container {
     width: 300px;
     margin: 0 auto;
@@ -24,23 +39,14 @@
     height:260px;
     position:absolute;
     top: 600px;
-    background-color: rgba(0,255,0,0.5);
 }
 .mid-body-div {
     top: 360px;
     height:240px;
-    background-color: rgba(255,0,0,0.5);
 }
 .upper-body-div {
     height: 240px;
     top: 120px;
-    background-color: rgba(200,0,0,0.5);
-}
-
-.disclaimer-container {
-    width: 300px;
-    margin: 0 auto;
-    text-align: right;
 }
 
 .close {

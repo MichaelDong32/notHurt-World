@@ -39,7 +39,7 @@ export default class Home extends React.Component{
     return (
       <div className="container">
         <div className="title-container">
-          <h1>! HURT WORLD</h1>
+          <h1>moveMe</h1>
           <h2>Get rid of tension with a bit of exercise</h2>
         </div>
 
@@ -48,9 +48,6 @@ export default class Home extends React.Component{
           <div className="upper-body-div" onClick={this.handleClick.bind(this)}></div>
           <div className="mid-body-div" onClick={this.handleClick.bind(this)}></div>
           <div className="lower-body-div"  onClick={this.handleClick.bind(this)}></div>
-        </div>
-        <div className="disclaimer-container">
-          <h5 className="disclaimer">Disclaimer</h5>
         </div>
 
         <Modal
@@ -64,7 +61,6 @@ export default class Home extends React.Component{
           <Instructions instructions={this.state.instructions} />
           <Image imageUrl={this.state.imageUrls[0]} />
         </Modal>
-
       </div>
       )
   }
