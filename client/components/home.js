@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Popup from './Popup.js'
 export default class Home extends React.Component{
   handleClick (event) {
     console.log("you click")

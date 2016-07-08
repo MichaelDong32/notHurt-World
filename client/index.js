@@ -4,11 +4,27 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './components/app.js'
 
+import 'whatwg-fetch'
+import 'es6-promise'
 import domready from 'domready'
+
+let data = {}
+
+fetch('/data.json')
+  .then((res) => {
+    return res.json()
+  })
+  .then((res) => {
+    data = res
+    ReactDOM.render(
+      <App data={data}/>,
+      document.querySelector('#app')
+    )
+  })
 
 domready( () => {
   ReactDOM.render(
-    <App />,
+    <App data={data}/>,
     document.querySelector('#app')
   )
 })
