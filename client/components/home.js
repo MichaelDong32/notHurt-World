@@ -39,9 +39,10 @@ export default class Home extends React.Component{
     return (
       <div className="container">
         <div className="title-container">
-          <h1>Title goes here!</h1>
-          <h2>Description goes here</h2>
+          <h1>! HURT WORLD</h1>
+          <h2>Get rid of tension with a bit of exercise</h2>
         </div>
+
         <div className="body-container">
           <img src="./resources/images/body.svg" className="stretch" alt="image" width="300px" />
           <div className="upper-body-div" onClick={this.handleClick.bind(this)}></div>
