@@ -1,3 +1,47 @@
+.container {
+}
+
+.body-container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.title-container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.stretch {
+    width:100%;
+    height:100%;
+    z-index:1;
+}
+
+.lower-body-div, .mid-body-div, .upper-body-div {
+    width:300px;
+    height:240px;
+    position:absolute;
+    top: 120px;
+    background-color: rgba(0,255,0,0.5);
+}
+.mid-body-div {
+    top: 360px;
+    background-color: rgba(255,0,0,0.5);
+}
+.upper-body-div {
+    height: 260px;
+    top: 600px;
+    background-color: rgba(200,0,0,0.5);
+}
+
+.disclaimer-container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: right;
+}
+
 .close {
   float: right;
   margin: 0;
