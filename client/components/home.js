@@ -6,7 +6,7 @@ export default class Home extends React.Component{
   }
   render() {
     return (
-      <div>
+      <div className="container">
         <div className="title-container">
           <h1>Title goes here!</h1>
           <h2>Description goes here</h2>
@@ -19,9 +19,8 @@ export default class Home extends React.Component{
           <div className="lower-body-div"  onClick={this.handleClick.bind(this)}></div>
         </div>
         <div className="disclaimer-container">
-          <h5>Disclaimer</h5>
+          <h5 className="disclaimer">Disclaimer</h5>
         </div>
-        <button type="button">Click Me</button>
       </div>
       )
   }
