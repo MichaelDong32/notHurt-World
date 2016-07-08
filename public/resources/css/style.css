@@ -1,7 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,100italic,300,300italic,400italic,500,500italic,700,700italic);
-
 .container {
-    font-family: 'Roboto', sans-serif;
 }
 
 .body-container {
@@ -10,10 +7,10 @@
 }
 
 .title-container {
-    width: 500px;
+    width: 400px;
     margin: 0 auto;
     text-align: center;
-    margin-bottom: 20px
+    margin-bottom: 20px;
 }
 
 .stretch {
