@@ -13,6 +13,9 @@ export default class Home extends React.Component{
       imageUrls: []
     }
   }
+  handleClick = (event) => {
+    console.log("you clicked", event.target)
+  }
 
   openModal = () => {
     this.setState({modalIsOpen: true});
@@ -24,21 +27,20 @@ export default class Home extends React.Component{
 
   render() {
     return (
-      <div>
+      <div className="container">
         <div className="title-container">
           <h1>Title goes here!</h1>
           <h2>Description goes here</h2>
         </div>
         <div className="body-container">
-          <img src="./resources/images/body.svg" width="300px"/>
-          <div className="upper-body-div"></div>
-          <div className="mid-body-div"></div>
-          <div className="lower-body-div"></div>
+          <img src="./resources/images/body.svg" className="stretch" alt="image" width="300px" />
+          <div className="upper-body-div" onClick={this.handleClick.bind(this)}></div>
+          <div className="mid-body-div" onClick={this.handleClick.bind(this)}></div>
+          <div className="lower-body-div"  onClick={this.handleClick.bind(this)}></div>
         </div>
         <div className="disclaimer-container">
-          <h5>Disclaimer</h5>
+          <h5 className="disclaimer">Disclaimer</h5>
         </div>
-        <button type="button" onClick={this.openModal} >Click Me</button>
 
         <Modal
           isOpen={this.state.modalIsOpen}
@@ -52,6 +54,7 @@ export default class Home extends React.Component{
           })}
           <Instructions instructions={this.state.instructions} />
         </Modal>
+
       </div>
       )
   }

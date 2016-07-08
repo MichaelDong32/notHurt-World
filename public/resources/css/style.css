@@ -1,43 +1,36 @@
+<<<<<<< HEAD
 .close {
   float: right;
   margin: 0;
 }
+=======
+.container {
+}
+
+>>>>>>> 1834b8450e910de125bd185b27601b4c8e035920
 .body-container {
     width: 300px;
-    height: 100%;
-    position: absolute;
-        left: 0px;
-        top: 0px;
-        z-index: 0;
+    margin: 0 auto;
 }
+
+.title-container {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
 .stretch {
     width:100%;
     height:100%;
     z-index:1;
 }
 
-/*.lower-body-div, .mid-body-div, .upper-body-div {
-    width:100%;
-    height:220px;
-    float: right;
-    display: block;
-    background-color: rgba(0,255,0,0.5);
-}
-.mid-body-div {
-    top: 340px;
-    background-color: rgba(255,0,0,0.5);
-}
-.upper-body-div {
-    top: 560px;
-    background-color: rgba(200,0,0,0.5);
-}*/
-
 .lower-body-div, .mid-body-div, .upper-body-div {
-    width:100%;
+    width:300px;
     height:240px;
     position:absolute;
     top: 120px;
-    left: 0;
     background-color: rgba(0,255,0,0.5);
 }
 .mid-body-div {
@@ -45,6 +38,21 @@
     background-color: rgba(255,0,0,0.5);
 }
 .upper-body-div {
+    height: 260px;
     top: 600px;
     background-color: rgba(200,0,0,0.5);
+<<<<<<< HEAD
+=======
+}
+
+.disclaimer-container {
+    width: 300px;
+    margin: 0 auto;
+    text-align: right;
+}
+
+.close {
+  float: right;
+  margin: 0;
+>>>>>>> 1834b8450e910de125bd185b27601b4c8e035920
 }
