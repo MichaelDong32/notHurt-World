@@ -9,7 +9,7 @@ import domready from 'domready'
 
 domready( () => {
   ReactDOM.render(
-    <Popup title="the popup title" />,
+    <Instructions title="the popup title" />,
     document.querySelector('#app')
   )
 })
