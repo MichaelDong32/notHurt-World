@@ -2,7 +2,7 @@
 console.log('hi');
 import React from 'react'
 import ReactDOM from 'react-dom'
-import App from './components/app.js'
+import Home from './components/home'
 
 import 'whatwg-fetch'
 import 'es6-promise'
@@ -17,14 +17,14 @@ fetch('/data.json')
   .then((res) => {
     data = res
     ReactDOM.render(
-      <App data={data}/>,
+      <Home data={data}/>,
       document.querySelector('#app')
     )
   })
 
 domready( () => {
   ReactDOM.render(
-    <App data={data}/>,
+    <Home data={data}/>,
     document.querySelector('#app')
   )
 })

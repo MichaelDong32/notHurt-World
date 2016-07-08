@@ -1,12 +1,9 @@
 import React from 'react'
 
-export default class Popup extends React.Component {
+export default class Image extends React.Component {
   render () {
     return (
-      <div>
-        This is the popup box
-        {this.props.images}
-      </div>
+      <img className="exercise-image" src={this.props.imageUrl} />
     )
   }
 }

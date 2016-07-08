@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-.close {
-  float: right;
-  margin: 0;
-}
-=======
-.container {
-}
-
->>>>>>> 1834b8450e910de125bd185b27601b4c8e035920
 .body-container {
     width: 300px;
     margin: 0 auto;
@@ -41,8 +31,6 @@
     height: 260px;
     top: 600px;
     background-color: rgba(200,0,0,0.5);
-<<<<<<< HEAD
-=======
 }
 
 .disclaimer-container {
@@ -54,5 +42,8 @@
 .close {
   float: right;
   margin: 0;
->>>>>>> 1834b8450e910de125bd185b27601b4c8e035920
+}
+
+.exercise-image {
+  height: 65%;
 }

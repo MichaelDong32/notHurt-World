@@ -1,13 +1,13 @@
 import React from 'react'
-import Popup from './Popup.js'
 import Instructions from './Instructions'
-import Images from './Images'
+import Image from './Images'
+import Modal from 'react-modal'
 
 export default class Home extends React.Component{
   constructor (props) {
     super(props)
     this.state = {
-      modalIsOpen: false
+      modalIsOpen: false,
       title: '',
       instructions: [],
       imageUrls: []
@@ -15,6 +15,16 @@ export default class Home extends React.Component{
   }
   handleClick = (event) => {
     console.log("you clicked", event.target)
+    console.log('classname', event.target.className)
+    // the event tells us which body part to look for
+    const prefix = event.target.className.match(/\w+/)[0]
+    const bodyPart = prefix + 'BodyExercises'
+    // props.data contains all the exercies for every body part
+    // single out the body part in props
+    const manyExercises = this.props.data[bodyPart]
+    // update the state with an exercise from that
+    this.setState(manyExercises[0])
+    this.openModal()
   }
 
   openModal = () => {
@@ -53,6 +63,7 @@ export default class Home extends React.Component{
             return <p key={index}>{index + 1}. {instruction}</p>
           })}
           <Instructions instructions={this.state.instructions} />
+          <Image imageUrl={this.state.imageUrls[0]} />
         </Modal>
 
       </div>
