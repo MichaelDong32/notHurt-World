@@ -60,9 +60,7 @@ export default class Home extends React.Component{
         >
         <button className='close' onClick={this.closeModal}>[x]</button>
           <h2>{this.state.title}</h2>
-          {this.state.instructions.map( (instruction, index) => {
-            return <p key={index}>{index + 1}. {instruction}</p>
-          })}
+
           <Instructions instructions={this.state.instructions} />
           <Image imageUrl={this.state.imageUrls[0]} />
         </Modal>
