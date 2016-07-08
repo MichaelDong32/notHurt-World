@@ -4,7 +4,7 @@
   "description": "!Hurt World",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "babel-node test/components-test.js | tap-spec",
     "start": "node server/index",
     "build": "cd client && webpack --progress --profile --colors",
     "build:watch": "cd client && webpack --progress --profile --colors --watch"
@@ -20,10 +20,15 @@
   },
   "homepage": "https://github.com/olwiba/notHurt-World#readme",
   "devDependencies": {
+    "babel-cli": "^6.10.1",
     "babel-loader": "^6.2.4",
     "babel-preset-es2015": "^6.9.0",
     "babel-preset-react": "^6.11.1",
     "babel-preset-stage-0": "^6.5.0",
+    "enzyme": "^2.3.0",
+    "react-addons-test-utils": "^15.2.0",
+    "tap-spec": "^4.1.1",
+    "tape": "^4.6.0",
     "webpack": "^1.13.1"
   },
   "dependencies": {
