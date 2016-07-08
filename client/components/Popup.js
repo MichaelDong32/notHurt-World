@@ -8,7 +8,7 @@ export default class Popup extends React.Component {
   constructor (props) {
     super(props)
     this.state = {
-      modalOpen: true
+      modalOpen: false
     }
   }
 
@@ -18,19 +18,17 @@ export default class Popup extends React.Component {
 
   render () {
     return (
-      <div>
-        <p>Title: {this.props.title}</p>
-        <Modal
-          isOpen={this.state.modalOpen}
-          onRequestClose={this.toggleModal}
-          closeTimeoutMS={150}
-        >
-        <button className='close' onClick={this.toggleModal}>[x]</button>
-          <h1>Modal Content</h1>
-          <h3>Stretch for: {this.props.title}</h3>
-          <Instructions instructions={this.props.instructions} />
-        </Modal>
-      </div>
+      <Modal
+      <p>Title: {this.props.title}</p>
+        isOpen={this.state.modalOpen}
+        onRequestClose={this.toggleModal}
+        closeTimeoutMS={150}
+      >
+      <button className='close' onClick={this.toggleModal}>[x]</button>
+        <h1>Modal Content</h1>
+        <h3>Stretch for: {this.props.title}</h3>
+        <Instructions instructions={this.props.instructions} />
+      </Modal>
     )
   }
 }
